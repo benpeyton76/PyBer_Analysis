@@ -1,7 +1,7 @@
-# PyBer Analysis
+# ***PyBer Analysis***
   
 
-## ***Overview of the analysis***
+## ***Overview:***
 
 In the Module 5 Analysis, we are asked to use our Python and Pandas knowledge and skills to create a summary of the PyBer ride-sharing data. V. Isualize has asked that we make a create a summary that breaks down the total fares for each type of city that is in PyBer’s radius of operation (urban, suburban, and rural). Pyber will be using the summaries and multi-line graph to help improve accessibility and to establish better operations among communities with less access to their service. 
 
